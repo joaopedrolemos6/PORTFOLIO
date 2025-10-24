@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1",
+    "title": "E-commerce Platform",
+    "description": "Uma plataforma completa de e-commerce com catálogo de produtos, carrinho, pagamentos e área de administração.",
+    "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["React", "Node.js", "MongoDB", "Stripe"],
+    "githubUrl": "https://github.com/",
+    "liveUrl": "https://example.com"
+  },
+  {
+    "id": "2",
+    "title": "Task Management App",
+    "description": "Aplicativo para gerenciamento de tarefas com funcionalidades de organização, lembretes e colaboração em equipe.",
+    "image": "https://images.pexels.com/photos/6956183/pexels-photo-6956183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["React", "Firebase", "Tailwind CSS"],
+    "githubUrl": "https://github.com/"
+  },
+  {
+    "id": "3",
+    "title": "Personal Finance Dashboard",
+    "description": "Dashboard para controle de finanças pessoais com visualização de gastos, receitas e planejamento financeiro.",
+    "image": "https://images.pexels.com/photos/6801874/pexels-photo-6801874.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["Next.js", "TypeScript", "Chart.js", "PostgreSQL"],
+    "githubUrl": "https://github.com/",
+    "liveUrl": "https://example.com"
+  },
+  {
+    "id": "4",
+    "title": "Weather App",
+    "description": "Aplicativo de previsão do tempo com dados em tempo real e visualizações detalhadas para múltiplas localizações.",
+    "image": "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["React Native", "Weather API", "Geolocation"],
+    "githubUrl": "https://github.com/"
+  }
+]
