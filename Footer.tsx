@@ -65,6 +65,9 @@ const Footer: React.FC = () => {
             <a href="#contact" className="text-stone-400 hover:text-stone-100 transition-colors text-sm">
               Contato
             </a>
+            <a href="#admin" className="text-stone-400 hover:text-stone-100 transition-colors text-sm">
+              Painel
+            </a>
           </div>
         </div>
       </div>
